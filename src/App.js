@@ -4,7 +4,7 @@ import Header from '../src/Component/Header'
 import Sidebar from '../src/Component/Sidebar'
 import Home from './Component/Home'
 import Subscription from './Component/Subscription'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Import required components from react-router-dom
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 
 
 function App() {
